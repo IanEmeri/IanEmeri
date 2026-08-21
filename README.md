@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![My Skills] (https://skillicons.dev/icons?i=pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pr)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
