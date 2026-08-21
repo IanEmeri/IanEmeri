@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![My Skills] (https://skillicons.dev/icons?i=pr) 
+![My Skills] (https://skillicons.dev/icons?i=pr)](https://skillicons.dev)
 <!--
 <!--
 **IanEmeri/IanEmeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
