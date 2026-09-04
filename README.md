@@ -8,8 +8,10 @@ https://skillicons.dev/icons?i=html,ps,ai Premiere Pro, Photoshop, Illustrator, 
 
 [
 
-![My Skills](https://skillicons.dev/icons?i=html,css,ps,ai)
 
+
+[My Skills](https://skillicons.dev/icons?i=html,css,ps,ai)
+Edición de video 
 ](https://skillicons.dev)
 
 
