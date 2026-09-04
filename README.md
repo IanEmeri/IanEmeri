@@ -1,10 +1,6 @@
-## Hi there 👋
+Hola mi nombre es Ian Emeri
 
-[![My Skills](https://skillicons.dev/icons?i=pr,ps,ai,)](https://skillicons.dev)
-
-## Hi there 👋
-
-Estudiante de ISFT N° 172. Trabajo con edición de video y diseño gráfico, y estoy aprendiendo desarrollo web.
+Estudiante de ISFT N° 172. Trabajo con edición de video, diseño gráfico y programación web
 
 **Programas de edición:** Premiere Pro, Photoshop, Illustrator, Sony Vegas
 
