@@ -11,11 +11,11 @@ Manejo estos programas de edición:
 
 Manejo estos lenguajes de programación:
 
-[
+
 
 ![My Skills](https://skillicons.dev/icons?i=html,css)
 
-](https://skillicons.dev)
+
 
 
 <!--
