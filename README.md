@@ -2,7 +2,7 @@ Hola mi nombre es Ian Emeri
 
 Estudiante de ISFT N° 172. Trabajo con edición de video, diseño gráfico y programación web
 
-**Programas de edición:** Premiere Pro, Photoshop, Illustrator, Sony Vegas
+https://skillicons.dev/icons?i=html,ps,ai Premiere Pro, Photoshop, Illustrator, Sony Vegas
 
 **Lenguajes:** HTML, CSS
 
