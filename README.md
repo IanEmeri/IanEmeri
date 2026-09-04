@@ -4,11 +4,10 @@ Estudiante de ISFT N° 172. Trabajo con edición de video, diseño gráfico y pr
 
 
 
+Manejo estos programas de edición:
 ![My Skills](https://skillicons.dev/icons?i=ps,ai)
 
 ](https://skillicons.dev)
-
-Premiere Pro y Sony Vegas
 
 Manejo estos lenguajes de programación:
 
