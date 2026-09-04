@@ -7,6 +7,7 @@ Estudiante de ISFT N° 172. Trabajo con edición de video, diseño gráfico y pr
 Manejo estos programas de edición:
 ![My Skills](https://skillicons.dev/icons?i=ps,ai,por,au)
 
+😎 Edición de videos profesional para redes sociales o cualquier ámbito, edición de imagen, fotografía y sonido
 
 
 Manejo estos lenguajes de programación:
